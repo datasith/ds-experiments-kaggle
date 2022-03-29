@@ -1,2 +1,2 @@
-# kaggle-solutions
-My solutions to Kaggle competitions
+# ds-experiments-kaggle
+My solutions to Kaggle competitions.
